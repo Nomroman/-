@@ -1,0 +1,27 @@
+* {margin:0px;padding:0px;}
+body {background-color:#red;font-size:40;font-family:calibri;}
+header {border:1px solid #6900ff4f;width:100%;float:left;background-color:#ffffff63;padding:20px;text-align:center;color:#240b3aab;text-transform:uppercase;font-weight:bold;}
+article {border:1px solid #6900ff4f;width:70%;float:left;background-color:#ffffff99;padding;10px;color:#240b3aab;margin:10px;}
+aside {border:1px solid #6900ff4f;width:20%;float:left;background-color:#00000033;margin-left:20px;padding:10px;color:#240b3aab;margin:10px;font-style:italic;}
+footer {border:1px solid #6900ff4f;width:100%;float:left;background-color:#8a39ff54;padding:10px;color:#240b3aab;}
+p {text-shadow:2px 2px 10px #00000050;}
+li {text-shadow:2px 2px 10px #00000050;font-size:30px;}
+.div-bad {border:15px solid red;}
+.div-good {border:30px solid yellow;}
+.div-most {border:10px solid blue;}
+.div-very {border:25px solid green;width:30%;}
+.div-fort {border:30px solid grey;float:left;}
+.div-play {border:5px solid green;width:40%;float:left;}
+.div-jack {border:10px solid red;width:50%;float:left;}
+.div-smile {border:20px solid blue;width:30%;float:left;}
+.div-leon {border:20px solid blue;width:30%;float:left;}
+.div-alex {border:20px solid blue;width:30%;float:left;}
+.div-bred {border:20px solid blue;width:30%;float:left;}
+.div-purple {border:20px solid blue;width:30%;float:left;}
+.div-brown {border:20px solid blue;width:30%;float:left;}
+.div-yellow {border:20px solid blue;width:30%;float:left;}
+.div-pink {border:20px solid blue;width:30%;float:left;}
+.div-grey {border:20px solid blue;width:30%;float:left;}
+.div-green {border:20px solid blue;width:30%;float:left;}
+.div-blue {border:20px solid blue;width:30%;float:left;}
+.div-black {border:20px solid blue;width:30%;float:left;}
