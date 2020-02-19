@@ -29,6 +29,13 @@ function jekid () {
 };
 
 function sertg () {
+     var g = document.getElementByTagName("");
+     g.onclick = function () {
+        console.log("lol");
+        g.style.background="yellow";
+        g.innerText="лол";
+    };
+};
 
 window.onload = function() {
       console.log("page dowloaded")
