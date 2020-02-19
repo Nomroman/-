@@ -42,4 +42,5 @@ window.onload = function() {
       herji ();
       click ();
       jekid ();
+      sertg ();
 };
