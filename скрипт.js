@@ -28,6 +28,8 @@ function jekid () {
     };
 };
 
+function sertg () {
+
 window.onload = function() {
       console.log("page dowloaded")
       herji ();
