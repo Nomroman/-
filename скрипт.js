@@ -37,6 +37,14 @@ function sertg () {
     };
 };
 
+function sgdje () {
+    var t = document.getElementByTagName("");
+    t.onclick = function () {
+    console.log("gert");
+      t.style.background="red";
+      t.innerText="Привет";
+   };
+};
 window.onload = function() {
       console.log("page dowloaded")
       herji ();
