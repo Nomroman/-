@@ -51,4 +51,5 @@ window.onload = function() {
       click ();
       jekid ();
       sertg ();
+      sgdje ();
 };
